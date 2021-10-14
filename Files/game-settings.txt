@@ -1,0 +1,4 @@
+﻿BoardSize:5x4
+StartingPoint: 0,1,North
+ExitPoint: 4,2
+Mines: 1,1;2,3
